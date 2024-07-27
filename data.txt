@@ -1,4 +1,4 @@
 case 1 path: /Users/ayushjain/Downloads/case 1.pdf
-OPENAI_API_KEY=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
+OPENAI_API_KEY=sk-...
 
 open-source-local-pdfAsker: https://github.com/imartinez/privateGPT
